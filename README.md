@@ -5,7 +5,7 @@ A series of integration sites of HBRV along the human genome were determined exp
 
 Results of this project have been published at:
 
-## Dscription of scripts  <br>
+## Description of scripts  <br>
 
 * <br>
 * <br>
